@@ -1,0 +1,26 @@
+#contenedor {
+	background-color: #e1e1e1;
+	margin: 0 auto;
+	width: 620px;
+	height: 650px;
+	position: relative;
+	padding-top: 30px;
+}
+
+.label {
+	display: inline-block;
+	text-align: right;
+	width: 160px;
+	vertical-align: top;
+}
+
+span{
+	display: inline-block;
+}
+.centro{
+	text-align: center;
+}
+
+div{
+	margin: 10px 0px;
+}
